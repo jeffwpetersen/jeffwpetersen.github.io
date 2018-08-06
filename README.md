@@ -1,2 +1,2 @@
-# juniperstudio.github.io
-Jstudio
+# jeffwpetersen.github.io
+J
